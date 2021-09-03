@@ -1,2 +1,0 @@
-(this["webpackJsonpmovie-app"]=this["webpackJsonpmovie-app"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var c=t(0),i=t.n(c),o=t(3),r=t.n(o),s=t(1);var a=function(){return Object(s.jsx)("span",{children:"something"})},p=function(e){e&&e instanceof Function&&t.e(3).then(t.bind(null,10)).then((function(n){var t=n.getCLS,c=n.getFID,i=n.getFCP,o=n.getLCP,r=n.getTTFB;t(e),c(e),i(e),o(e),r(e)}))};r.a.render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root")),p()}},[[9,1,2]]]);
-//# sourceMappingURL=main.01f79e65.chunk.js.map
